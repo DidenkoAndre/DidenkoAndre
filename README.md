@@ -1,9 +1,14 @@
 ### Hi there 👋
 
-<!--
-**DidenkoAndre/DidenkoAndre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a writer
 
-Here are some ideas to get you started:-->
+[![DidenkoAndre's github stats](https://github-readme-stats.vercel.app/api?username=DidenkoAndre&count_private=true&show_icons=true)](https://github.com/DidenkoAndre)  
+[![DidenkoAndre's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DidenkoAndre)](https://github.com/DidenkoAndre)  
+
+<!-- I am currently working on [AnotherCat/message-bot](https://github.com/AnotherCat/message-bot)
+**DidenkoAndre/DidenkoAndre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+[![DidenkoAndre's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DidenkoAndre)](https://wakatime.com/@DidenkoAndre)  -->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
