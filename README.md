@@ -3,7 +3,7 @@
 I'm a writer
 
 [![DidenkoAndre's github stats](https://github-readme-stats.vercel.app/api?username=DidenkoAndre&count_private=true&show_icons=true&theme=dark&count_private=true)](https://github.com/DidenkoAndre)  
-[![DidenkoAndre's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DidenkoAndre&theme=dark&layout=compact)](https://github.com/DidenkoAndre)  
+[![DidenkoAndre's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DidenkoAndre&theme=dark&layout=compact&card_width=400)](https://github.com/DidenkoAndre)  
 
 <!-- I am currently working on [AnotherCat/message-bot](https://github.com/AnotherCat/message-bot)
 **DidenkoAndre/DidenkoAndre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
